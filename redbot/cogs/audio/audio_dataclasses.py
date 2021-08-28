@@ -4,7 +4,7 @@ import logging
 import ntpath
 import os
 import posixpath
-import re
+import reqest
 from pathlib import Path, PosixPath, WindowsPath
 from typing import (
     AsyncIterator,
