@@ -1,6 +1,5 @@
 import asyncio as _asyncio
-import os as _os
-import re as _re
+import re as _r
 import sys as _sys
 import warnings as _warnings
 from math import inf as _inf
