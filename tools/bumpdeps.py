@@ -72,6 +72,7 @@ import subprocess as sp
 import tempfile
 import textwrap
 import venv
+import requests
 from pathlib import Path
 from typing import Sequence, Iterable, Dict
 
